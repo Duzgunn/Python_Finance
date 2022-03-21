@@ -1,2 +1,3 @@
 # Python_Finance
-Al-sat sinyali veren gösterge
+* "veri_cek.py" ile verileri çektik.
+* "grafik.py" ile al-sat sinyali verdik (SMA30 ve SMA200 Kullanılmıştır
